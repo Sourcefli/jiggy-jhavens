@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>JHavens.tech</title>
+    <link href="http://jhavens.tech/blog" />
+    <link type="application/atom+xml" rel="self" href="http://jhavens.tech/blog/feed.atom" />
+    <updated>2021-01-07T10:34:23+00:00</updated>
+    <id>http://jhavens.tech/blog/feed.atom</id>
+    <author>
+        <name>Jonathan Havens</name>
+    </author>
+                <entry>
+    <id>http://jhavens.tech/blog/sharing-sheets-one</id>
+    <link type="text/html" rel="alternate" href="http://jhavens.tech/blog/sharing-sheets-one" />
+    <title>Sharing Sheets - Part 1</title>
+    <published>2021-01-04T00:00:00+00:00</published>
+    <updated>2021-01-04T00:00:00+00:00</updated>
+    <author>
+        <name>Jonathan Havens</name>
+    </author>
+    <summary type="html">!## ---- TODO ------- ##!...</summary>
+    <content type="html"><![CDATA[
+        <p>!## ---- TODO ------- ##!</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>http://jhavens.tech/blog/private-programmer-explained</id>
+    <link type="text/html" rel="alternate" href="http://jhavens.tech/blog/private-programmer-explained" />
+    <title>Private Programmer Philosophy, Explained</title>
+    <published>2020-10-08T00:00:00+00:00</published>
+    <updated>2020-10-08T00:00:00+00:00</updated>
+    <author>
+        <name>Jonathan Havens</name>
+    </author>
+    <summary type="html">Why every small business should consider having a programmer on their team, especially in times like these......</summary>
+    <content type="html"><![CDATA[
+        <h2>The Problem</h2>
+
+<p>I'm going to go out on a limb here and say that the majority of people who are reading this has never sat back to think about the <em>cost of redundancies</em> that they spend on a day-to-day basis - or if we zoom out a bit further - the whole lifetime of their business.<br />
+I do realize that 'redundancies' is quite a vague term, and I do intend to elaborate, but ultimately the natural cycles of hiring and firing, training and supervising, promoting and demoting - and on and on - is what I'm referring to.</p>
+
+<p>!## ------- START UP AGAIN HERE --------- ##!
+As an example, let's say you have an Office Administrator that's worked for your team for a few years.
+Then that inevitable day comes when, for one reason or another, they need to move on.</p>
+
+<p>There's now this vacancy within your team, which is always a</p>
+
+<ul>
+<li>You've spent years training this person</li>
+<li>supervising/correcting their mistakes, going out of your way to welcome them as part of your staff, only so they could watch this person walk out on that inevitable day!</li>
+</ul>
+
+<h2>The Hypothesis</h2>
+
+<h2>The Applications</h2>
+
+<h2>The Results</h2>
+
+<h2>The Conclusions</h2>
+
+<p>Web development and programming may sound like expensive endeavors, even unreachable for some, due to the preconceptions that are out there. 
+The fact is, between the cycle of hiring and firing that small companies go through, and the constant evolution of new technologies, start-ups and small companies - even mid to large companies - spend an unquantifiable amount of time and resources on their workers just to meet the status-quo.</p>
+
+<p>So naturally, there's a few hiring ads that go out, a series of interviews that occur, orientations, supervised training, etc. The new hire then begins working on their own and they stay on board for another.. 6 months? 2 years?...then we start back at the top again. 
+This cycle has gone on now for decades, centuries, and even millennia, out of necessity - who would argue with that. 
+Yet now, the days have come where almost every aspect of administrative, mechanical, and operational duties can be performed by some well-written lines of code. 
+Though this may <em>sound</em> expensive, complicated, or otherwise insurmountable at first, the reality is.. when you begin down this path, you'll never have to worry about re-visiting the hard work that you've already put in.
+From here on out, you may pay 2, 3, 4, 5x more money than you would have to start with, but these expenses are what I like to call the "company snowball". Once you get the ball rolling, you not only have fresh ideas coming up as you go, you have software that's <em>custom built</em> for your particular company's operations.</p>
+
+<p>When someone asked me what I do, I used to say "Web Development", then they'd generally respond by saying something along the lines of "Oh, you build websites then?".
+Though understandable, since this has generally been the case throughout the turn of this century, this is a very narrow vision of what a "Web Developer" can do as of the year 2021. So, instead of entering that debate, I've decided to proceed with the term "Private Programmer".</p>
+
+<p>As you're likely already familiar with, there are countless online web applications these days that offer all sorts of cookie-cutter services, allowing them to draw in as many companies as possible. Fair enough. 
+But as you may already know, each application requires your team to learn the software, implement what works, then evaluate it's cost-efficiency and effectiveness as a whole - and do all of this prior to knowing whether this software will "stick".</p>
+
+<h3>Private Programming Summary</h3>
+
+<p>An idea based on the notion that you utilize programming to fit the needs of your business...not the other way around.
+In the few years that I've been writing software now, I've seen how customized programs can not only help during these times of working remotely, but changes the dynamics of how a team works together and attracts the right people who seek unique opportunities in their industry.</p>
+
+<p>I know this all still sounds very abstract and there needs to be more concrete examples of what I'm referring to. 
+I intend to provide them throughout this website.</p>
+
+<p>Here are a few examples of programs that I've built for businesses in the life/health insurance industry which allow callers to submit appointments into a system, allow the Manager to assign those appointments to the their field agents, then how those appointments are tracked as they're marked completed each day.
+Bear in mind, this is only one industry, therefore this may not relate to your business. What I'm assuming <em>does</em> relate though, is that there used to be an office administrator (being paid 2-3k/mo) who would oversee these operations - now it is all automated, due to some custom software that I created. In times like these, how much are you spending for team members that do the same repetitive tasks everyday? And how much would it help your business to know its all on auto-pilot?</p>
+
+<h3>Examples:</h3>
+
+<ul>
+<li><a href="/services/sheets-assignments">Google Sheet To Assign Appointments</a></li>
+<li><a href="/services/trello">Trello Used For Data Tracking</a></li>
+<li><a href="/services/auto-dial">Auto-Dial With Prefilled Forms For New Appointment Submissions</a></li>
+</ul>
+    ]]></content>
+</entry>
+    </feed>
